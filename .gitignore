@@ -213,3 +213,5 @@ typings/
 # Android studio 3.1+ serialized cache file
 
 # End of https://www.gitignore.io/api/node,rider,intellij+all
+
+dist
